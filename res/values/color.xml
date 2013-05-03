@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bai">#FFFFFF</color>
+    <color name="hui">#C0C0C0</color>
+    <color name="black">#000000</color>
+    <color name="jinglan">#4169E1</color>
+    <color name="tianlan">#87CEEB</color>
+    <color name="red">#FF0000</color>
+    <color name="dd">#40e0d0</color>
+    <color name="rred">#B22222</color>
+    <color name="menu">#212121</color>
+    
+</resources>
